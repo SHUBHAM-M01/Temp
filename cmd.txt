@@ -12,3 +12,6 @@ git show
 
 git log
 - Logs all the commits
+
+git reset --hard 893klxdf
+- Moves the head to the given commit Node
