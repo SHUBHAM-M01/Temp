@@ -5,8 +5,10 @@ const newInteger = 1000;
 
 const newName = () => {
     console.log(newVariable1); 
+    console.log(newVariable1); 
 }
 
 function NewFunction(a,b) {
+    console.log(a+b);
     console.log(a+b);
 }

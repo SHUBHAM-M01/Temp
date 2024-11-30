@@ -1,0 +1,14 @@
+git commit -m "Message" -- To Commit 
+Commits must be kept cleaned. That is after completion of a single feature a commit should be made.
+
+git status 
+Tells which file are modified 
+
+git add
+- Adds File in Staging Area
+
+git show
+- Shows the changes in each file
+
+git log
+- Logs all the commits
